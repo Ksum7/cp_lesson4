@@ -1,3 +1,5 @@
+import {MiniMaple} from "./miniMaple"
+
 document.addEventListener('DOMContentLoaded', setup);
 
 function setup() {
